@@ -96,3 +96,88 @@ elina, add contact
 alina, what's the weather tomorrow?
 elena, stop navigation
 hi aleena, what's the square root of 16?
+aleena, what's the time in Paris?
+elina, add a contact
+alina, open the settings
+hi elina, can you create an event for birthday party
+alena, show me my notifications
+hey alina, what's 100 divided by 20?
+hey alina, call David
+hey elena, translate good day to German
+alina play my favorite song
+hi alina, set an alarm for noon
+alina, turn down the volume a bit
+hey elena, open the windows please
+aleena, adjust the thermostat to 68 degrees
+elina, turn on the fan in the bedroom
+alena, lock all the doors now
+hi alina, brighten the living room lights
+elena, close the garage door
+aleena, set the alarm system to away mode
+elina, turn off the coffee maker
+hey alena, switch to energy saving mode
+alina, what's the forecast for this weekend?
+elena, how cold will it be tomorrow morning?
+hi aleena, tell me the sunrise time
+elina, is it going to rain later?
+alena, what's the humidity outside?
+hey alina, check the wind speed
+elena, give me the weekly weather overview
+aleena, what's the time in Tokyo right now?
+elina, set a timer for 5 minutes
+alena, remind me about daylight savings
+alina, play jazz music softly
+hey elena, shuffle my rock playlist
+aleena, stop the podcast episode
+elina, next track please
+alena, volume up on the TV
+hi alina, play the latest news briefing
+elena, resume the audiobook
+aleena, find a comedy movie to watch
+elina, turn on subtitles
+hey alena, play ambient rain sounds
+alina, directions to the airport
+elena, how long to drive to downtown?
+hi aleena, find nearby gas stations
+elina, update my route home
+alena, what's the traffic like on the highway?
+hey alina, book an Uber for me
+elena, search hotels in Paris
+aleena, check train schedules
+elina, what's my ETA?
+alena, avoid toll roads please
+alina, add bread to my grocery list
+hey elena, order more dog food
+aleena, what's on my shopping cart?
+elina, remove milk from the list
+alena, find deals on laptops
+hi alina, track my package delivery
+elena, compare prices for headphones
+aleena, add a birthday gift idea
+elina, read my to-do list
+hey alena, set a budget reminder
+alina, log my water intake today
+elena, start a meditation session
+hi aleena, track my run distance
+elina, what's my calorie burn?
+alena, remind me to take vitamins
+hey alina, suggest a workout routine
+elena, check my sleep stats
+aleena, find yoga videos
+elina, monitor my heart rate
+alena, log a healthy meal
+alina, tell me a fun fact
+hey elena, convert 100 euros to dollars
+aleena, define the word serendipity
+elina, roll a six-sided die
+alena, flip a coin for me
+hi alina, solve 15 divided by 3
+elena, what's the phase of the moon?
+aleena, generate a random password
+elina, read the latest email
+hey alena, schedule a meeting for Friday
+alina, turn on night mode
+elena, check my battery level
+aleena, restart the router
+elina, update my profile
+alena, delete old files
