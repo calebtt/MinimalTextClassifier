@@ -181,3 +181,63 @@ elena, check my battery level
 aleena, restart the router
 elina, update my profile
 alena, delete old files
+alina, generate a QR code
+elena, translate this sentence to French
+hi aleena, find synonyms for happy
+elina, what's the antonym of cold?
+alena, play a motivational quote
+hey alina, set sleep timer
+elena, check email spam
+aleena, archive old messages
+elina, forward this text
+alena, block a number
+alina, update my apps
+hey elena, connect to WiFi
+aleena, scan for devices
+elina, clear browser history
+alena, enable airplane mode
+hi alina, check storage space
+elena, install security update
+aleena, pair Bluetooth headphones
+elina, reset password
+hey alena, run diagnostics
+alina, who won the last election?
+elena, define photosynthesis
+hi aleena, how tall is Everest?
+elina, what's the speed of light?
+alena, list planets in order
+hey alina, convert miles to kilometers
+elena, tell me about dinosaurs
+aleena, what's pi to 10 digits?
+elina, history of the internet
+alena, random trivia fact
+alina, remind me to call grandma
+hey elena, add event for dentist
+aleena, set recurring alarm
+elina, cancel tomorrow's reminder
+alena, what's my schedule today?
+hi alina, prioritize my tasks
+elena, reschedule the meeting
+aleena, add note for groceries
+elina, set deadline for project
+hey alena, sync my calendar
+alina, start a new chess game
+elena, roll the dice for me
+hi aleena, suggest board games
+elina, play trivia questions
+alena, what's the latest video game news?
+hey alina, deal the cards
+elena, find puzzle apps
+aleena, start tic-tac-toe
+elina, recommend podcasts on history
+alena, play a riddle game
+alina, what's my credit score?
+hey elena, pay the electric bill
+aleena, transfer 50 dollars to savings
+elina, check stock market trends
+alena, convert USD to GBP
+hi alina, set up auto-pay for rent
+elena, what's the interest rate?
+aleena, track my expenses this month
+elina, find cheap flights deals
+hey alena, calculate loan payments
